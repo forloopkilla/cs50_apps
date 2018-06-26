@@ -1,4 +1,4 @@
-# A program that encrypts messages using Vigenère’s cipher. This program
+# A Python program that encrypts messages using Vigenère’s cipher. This program
 # must accept a single command-line argument: a keyword, k, composed entirely
 # of alphabetical characters.
 
